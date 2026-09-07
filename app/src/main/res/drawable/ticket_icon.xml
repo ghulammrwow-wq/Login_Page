@@ -1,0 +1,59 @@
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="800"
+    android:viewportHeight="800">
+
+    <path
+        android:fillColor="#000000"
+        android:fillType="evenOdd"
+        android:pathData="
+        M503,26
+        L489,25 L474,32 L360,146 L352,157 L347,170 L342,175
+        L318,188 L32,474 L25,489 L25,499 L31,513 L108,589
+        L117,593 L132,593 L157,578 L167,575 L185,575 L199,580
+        L215,594 L224,614 L224,632 L219,646 L206,667 L207,685
+        L212,694 L286,768 L296,773 L310,774 L325,767 L612,480
+        L620,468 L624,457 L629,452 L653,439 L767,325 L774,310
+        L774,300 L768,286 L691,210 L677,205 L667,206 L639,222
+        L614,224 L600,219 L584,205 L575,185 L575,167 L580,153
+        L593,132 L592,114 L586,104 L513,31 Z
+
+        M494,82
+        L539,127 L532,140 L527,157 L526,189 L535,219 L549,240
+        L573,260 L587,267 L610,273 L642,272 L659,267 L672,260
+        L717,305 L618,404 L613,406 L596,389 L586,384 L574,384
+        L564,389 L556,402 L556,414 L561,424 L578,441 L576,446
+        L305,717 L260,672 L267,659 L272,642 L273,610 L267,587
+        L250,559 L235,545 L219,535 L189,526 L157,527 L140,532
+        L127,539 L82,494 L353,223 L358,221 L375,238 L385,243
+        L397,243 L407,238 L415,225 L415,213 L410,203 L393,186
+        L395,181 Z
+
+        M427,251
+        L421,258 L418,266 L418,275 L423,286 L444,307 L451,311
+        L465,312 L474,308 L480,302 L484,293 L484,282 L479,272
+        L453,248 L438,246 Z
+
+        M497,319
+        L491,325 L487,334 L487,345 L492,355 L513,376 L520,380
+        L533,381 L544,376 L550,369 L553,361 L553,352 L548,341
+        L527,320 L520,316 L506,315 Z" />
+
+</vector>

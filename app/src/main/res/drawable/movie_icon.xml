@@ -1,0 +1,95 @@
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="220dp"
+    android:height="220dp"
+    android:viewportWidth="500"
+    android:viewportHeight="500">
+
+    <!-- Main Film Reel -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="
+            M250,65
+            A185,185 0,1 1,249.9,65
+            Z" />
+
+    <!-- Top Left Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M185,105
+            A25,25 0,1 1,185,155
+            A25,25 0,1 1,185,105
+            Z" />
+
+    <!-- Top Right Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M315,105
+            A25,25 0,1 1,315,155
+            A25,25 0,1 1,315,105
+            Z" />
+
+    <!-- Left Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M120,225
+            A25,25 0,1 1,120,275
+            A25,25 0,1 1,120,225
+            Z" />
+
+    <!-- Right Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M380,225
+            A25,25 0,1 1,380,275
+            A25,25 0,1 1,380,225
+            Z" />
+
+    <!-- Bottom Left Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M185,345
+            A25,25 0,1 1,185,395
+            A25,25 0,1 1,185,345
+            Z" />
+
+    <!-- Bottom Right Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M315,345
+            A25,25 0,1 1,315,395
+            A25,25 0,1 1,315,345
+            Z" />
+
+    <!-- Center Hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M238,230
+            A20,20 0,1 1,250,270
+            A20,20 0,1 1,240,230
+            Z" />
+
+</vector>

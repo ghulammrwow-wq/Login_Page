@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">mytask</string>
+    <string name="text1">Fill your information below or \n register with your email account</string>
+    <string name="menu">Menu</string>
+    <string name="logout">Logout</string>
+    <string name="home_page">Home Page</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+
+
+    //signIN
+    <string name="textLogin">Please Login Your Account</string>
+    <string name="wel">Welcome</string>
+    <string name="login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Forgot_Password">Forgot Password</string>
+    <string name="Create_Account">Create a New Account?</string>
+    <string name="sign_up">SignUp</string>
+    <string name="Confirm_password">Confirm Password</string>
+
+
+    //Sign_In
+    <string name="Create">Create</string>
+    <string name="Account">Account</string>
+    <string name="Enter_Name">Enter Your Name</string>
+    <string name="button_Sign_up">Sign Up</string>
+    <string name="Already_account">Already have an Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="back">Back</string>
+
+
+</resources>
